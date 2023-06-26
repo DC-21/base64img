@@ -1,6 +1,6 @@
 import  base64
 
-file = open('image.txt', 'rb')
+file = open('output.txt', 'rb')
 encoded_data = file.read()
 file.close()
 
